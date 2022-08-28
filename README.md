@@ -1,4 +1,4 @@
-# 2i2c Documentation Resources
+# 2i2c Documentation and Related Resources
 
 *[Diátaxis](https://diataxis.fr/) - A systematic framework for technical documentation authoring.*
 
