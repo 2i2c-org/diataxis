@@ -23,3 +23,8 @@ LinkedEarth originated in 2016 through a grant from the National Science Foundat
 - [Discourse](https://discourse.linked.earth/)
 - [Gallery](http://linked.earth/gallery.html)
 
+## [NASA Earthdata-Openscapes](https://nasa-openscapes.github.io/)
+
+NASA Earthdata-Openscapes answers a NASA Earthdata call to support scientific researchers using data from NASA Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud.
+
+- [NASA Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/)
